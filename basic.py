@@ -53,14 +53,17 @@
 # else:
 #     print('Both of bangladesh city')
 
-day = input("Enter any day of the week \n")
+# day = input("Enter any day of the week \n")
 
-match day:
-    case 'monday':
-        print('1')
-    case 'tuesday':
-        print('2')
-    case 'wednesday':
-        print('3')
-    case 'thursday':
-        print('4')
+# match day:
+#     case 'monday':
+#         print('1')
+#     case 'tuesday':
+#         print('2')
+#     case 'wednesday':
+#         print('3')
+#     case 'thursday':
+#         print('4')
+
+def myfun(name):
+    print('good morning '+name)

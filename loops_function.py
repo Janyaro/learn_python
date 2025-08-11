@@ -41,6 +41,6 @@
     
 # list
 
-car = ['Car1','car2','car3']
-car[0]='mycar'
-print(car[0])
+# car = ['Car1','car2','car3']
+# car[0]='mycar'
+# print(car[0])
